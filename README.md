@@ -1,4 +1,4 @@
-# demo2
+# NEWS APP
 
 A new Flutter project.
 
